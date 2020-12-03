@@ -1,4 +1,4 @@
-// Declaring form and assign event listener (ln:25)
+// Declaring form and assign event listener (ln:35)
 const form = document.getElementById("form");
 
 // Function to be called on submit
