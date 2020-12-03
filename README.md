@@ -6,5 +6,7 @@ An addon tool that will quickly look up for the city and the country with a give
 
 ![](air.gif)
 
-The addon fetch the details from its own server, created to handle this requests.
+The addon fetch the details from its own server, created to handle this requests in [serverAirportCode](https://github.com/simo54/serverAirportCode).
+
+
 
