@@ -1,0 +1,16 @@
+{
+  "name": "chromeextensions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "popup.js",
+  "scripts": {
+    "start:firefox": "web-ext run --source-dir ./extension-dist/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-server": "^0.12.3"
+  }
+}
