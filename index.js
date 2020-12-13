@@ -28,10 +28,11 @@ const fetchData = () => {
     }
   }
 
-  // Calling the fethcing function
+  // Calling the fetching function
   fetching();
 };
 
+// Adding listener on Form submit
 form.addEventListener("submit", (e) => {
   e.preventDefault();
   fetchData();
